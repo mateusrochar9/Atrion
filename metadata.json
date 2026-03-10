@@ -1,0 +1,8 @@
+{
+  "name": "Atrion - Automação de Atendimento",
+  "description": "Plataforma completa de atendimento automático com IA, integração WhatsApp, CRM e Dashboard de analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
