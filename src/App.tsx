@@ -95,7 +95,7 @@ export default function App() {
 
   const navItems = [
     { id: 'agente', label: 'Agente', icon: Bot },
-    { id: 'whatsapp', label: 'Integração com WhatsApp', icon: MessageSquare },
+    { id: 'whatsapp', label: 'WhatsApp', icon: MessageSquare },
     { id: 'dashboard', label: 'Dashboard', icon: LayoutDashboard },
     { id: 'leads', label: 'Leads', icon: Users },
     { id: 'kanban', label: 'Kanban', icon: Trello },
